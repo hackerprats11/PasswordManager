@@ -1,0 +1,16 @@
+/* App.css */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  flex: 1;
+  padding-bottom: 80px; /* To create space for the fixed footer */
+}
+
+/* Add custom styles for the footer */
+footer {
+  background-color: #f8f9fa;
+}
